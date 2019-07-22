@@ -38,11 +38,15 @@ jaegertracing/all-in-one:latest
 
  ```
 
-
 测试
 ```
 curl http://localhost:8000/service1 -X POST -d "hello"
 curl http://localhost:8000/service2 -X POST -d "world"
 
 ```
+
+打开 http://127.0.0.1:16686
+
+![](/jaeger.png)
+
 

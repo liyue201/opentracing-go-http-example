@@ -26,7 +26,7 @@ func main() {
 	tracer, closer := jaeger.NewTracer(
 		"service1",
 		jaeger.NewConstSampler(true),
-		jaeger.NewRemoteReporter(transport, nil),
+		jaeger.NewRemoteReporter(transport),
 	)
 
 	defer closer.Close()

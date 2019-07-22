@@ -26,7 +26,7 @@ func main() {
 	tracer, closer := jaeger.NewTracer(
 		"api-gateway",
 		jaeger.NewConstSampler(true),
-		jaeger.NewRemoteReporter(transport, nil),
+		jaeger.NewRemoteReporter(transport),
 	)
 	opentracing.SetGlobalTracer(tracer)
 	defer closer.Close()

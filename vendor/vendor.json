@@ -1,0 +1,193 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "bM0UREYzzFvlVD0teRUx4Wb81NY=",
+			"path": "github.com/gin-contrib/opengintracing",
+			"revision": "4ee21dab497a542eaa1ef27d8f139e2f8db878c0",
+			"revisionTime": "2019-07-03T19:40:06Z"
+		},
+		{
+			"checksumSHA1": "BhMowD2DIKSd9qq8Pzh7Y3mh2/w=",
+			"path": "github.com/gin-contrib/sse",
+			"revision": "5545eab6dad3bbbd6c5ae9186383c2a9d23c0dae",
+			"revisionTime": "2019-03-01T06:25:29Z"
+		},
+		{
+			"checksumSHA1": "Ezy5XuwkkMYgMHyzk8zgHkbCQYs=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "6e320c97e83a61df3daa0f28695a736bece3104b",
+			"revisionTime": "2019-05-27T06:04:30Z"
+		},
+		{
+			"checksumSHA1": "PjwwSE/otFSKsucjTyrEtcyrCdM=",
+			"path": "github.com/gin-gonic/gin/binding",
+			"revision": "6e320c97e83a61df3daa0f28695a736bece3104b",
+			"revisionTime": "2019-05-27T06:04:30Z"
+		},
+		{
+			"checksumSHA1": "GAHho8qMLbDfGoD4w7SX7ZRT56U=",
+			"path": "github.com/gin-gonic/gin/internal/json",
+			"revision": "6e320c97e83a61df3daa0f28695a736bece3104b",
+			"revisionTime": "2019-05-27T06:04:30Z"
+		},
+		{
+			"checksumSHA1": "W9AUeI1417RP1ZuqoamB7mowTR0=",
+			"path": "github.com/gin-gonic/gin/render",
+			"revision": "6e320c97e83a61df3daa0f28695a736bece3104b",
+			"revisionTime": "2019-05-27T06:04:30Z"
+		},
+		{
+			"checksumSHA1": "Wp97rIwFg54dNwuCeR9Vslaehtw=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "d3c38a4eb4970272b87a425ae00ccc4548e2f9bb",
+			"revisionTime": "2019-03-18T19:48:12Z"
+		},
+		{
+			"checksumSHA1": "Y3iO+q7Ma+Gi2tHT4NCYqqu8+gs=",
+			"path": "github.com/json-iterator/go",
+			"revision": "0ff49de124c6f76f8494e194af75bde0f1a49a29",
+			"revisionTime": "2019-03-06T14:29:09Z"
+		},
+		{
+			"checksumSHA1": "A7CA8kdeDAQo6tsMv2kXK+Hm7/Y=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "c2a7a6ca930a4cd0bc33a3f298eb71960732a3a7",
+			"revisionTime": "2019-03-12T13:58:54Z"
+		},
+		{
+			"checksumSHA1": "8QsG+3u6seONPzLFGBbZ4LnXw9s=",
+			"path": "github.com/modern-go/concurrent",
+			"revision": "bacd9c7ef1dd9b15be4a9909b8ac7a4e313eec94",
+			"revisionTime": "2018-03-06T01:26:44Z"
+		},
+		{
+			"checksumSHA1": "KCYlG1iRaLEKJ4wdVJOqjGw/SLQ=",
+			"path": "github.com/modern-go/reflect2",
+			"revision": "94122c33edd36123c84d5368cfb2b69df93a0ec8",
+			"revisionTime": "2018-07-18T01:23:57Z"
+		},
+		{
+			"checksumSHA1": "QQNFNq7ykfD4gChleQpCFbNVCaQ=",
+			"path": "github.com/opentracing/opentracing-go",
+			"revision": "659c90643e714681897ec2521c60567dd21da733",
+			"revisionTime": "2019-03-23T20:25:03Z"
+		},
+		{
+			"checksumSHA1": "Wdi52L/vfgb9/XJ8azXE4WUXWAc=",
+			"path": "github.com/opentracing/opentracing-go/ext",
+			"revision": "659c90643e714681897ec2521c60567dd21da733",
+			"revisionTime": "2019-03-23T20:25:03Z"
+		},
+		{
+			"checksumSHA1": "Xtw8Y/mGT602XwYnbOooUz9uYxU=",
+			"path": "github.com/opentracing/opentracing-go/log",
+			"revision": "659c90643e714681897ec2521c60567dd21da733",
+			"revisionTime": "2019-03-23T20:25:03Z"
+		},
+		{
+			"checksumSHA1": "/lIlXFzXGlbX1WQC+cUpU1DAMGo=",
+			"path": "github.com/uber/jaeger-client-go",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "iLgJH0FWnZ6josmLioMwxny3KjI=",
+			"path": "github.com/uber/jaeger-client-go/internal/baggage",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "6yUyobGwgq6GMMEchPj2mJFSp9E=",
+			"path": "github.com/uber/jaeger-client-go/internal/spanlog",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "8QhvPRVmiJ73TxYoTloe9lZHy+Q=",
+			"path": "github.com/uber/jaeger-client-go/internal/throttler",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "szcwS0PX4NKw3PLNMDBqkzRDFEs=",
+			"path": "github.com/uber/jaeger-client-go/log",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "AUC3Uv10/F7DoCPkO0LIMJEwJps=",
+			"path": "github.com/uber/jaeger-client-go/thrift",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "gS2quoganw/8b8l6qDt8KpIfTQE=",
+			"path": "github.com/uber/jaeger-client-go/thrift-gen/agent",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "R3swnADs5IzgRaNenYrf5u1yuG4=",
+			"path": "github.com/uber/jaeger-client-go/thrift-gen/jaeger",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "rR/e7C5WzVVeIj5trfHZSBzNXFA=",
+			"path": "github.com/uber/jaeger-client-go/thrift-gen/sampling",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "MMY9x8OUbkh/FnDfACmddjidOXg=",
+			"path": "github.com/uber/jaeger-client-go/thrift-gen/zipkincore",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "IkkPVgmynmKi7Hgl2Bz+sqNdKMA=",
+			"path": "github.com/uber/jaeger-client-go/transport/zipkin",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "7PpjsaxF2lYSF2uhVx+tRtDFpbU=",
+			"path": "github.com/uber/jaeger-client-go/utils",
+			"revision": "402bec9e6ead856e972bfa449c9c5d6b8965aef1",
+			"revisionTime": "2019-07-05T22:00:40Z"
+		},
+		{
+			"checksumSHA1": "PSv30VEwcyuIBnx86zmN65h7mLQ=",
+			"path": "github.com/uber/jaeger-lib/metrics",
+			"revision": "d036253de8f5b698150d81b922486f1e8e7628ec",
+			"revisionTime": "2019-01-22T22:26:57Z"
+		},
+		{
+			"checksumSHA1": "jy73ch6jnTsC6/tsz2LATsaIV9M=",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "0ecb224b1b7548fffdcd948ef9a2c9b52144a7a5",
+			"revisionTime": "2019-05-24T07:18:21Z"
+		},
+		{
+			"checksumSHA1": "H/1TM+BKvRrkqODh7FRMvh8OIGM=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "61b9204099cb1bebc803c9ffb9b2d3acd9d457d9",
+			"revisionTime": "2019-05-15T11:56:26Z"
+		},
+		{
+			"checksumSHA1": "gMg7lOksXIvMLWcnvZTq/xkv5og=",
+			"path": "gopkg.in/go-playground/validator.v8",
+			"revision": "5f1438d3fca68893a817e4a66806cea46a9e4ebf",
+			"revisionTime": "2017-07-30T05:02:35Z"
+		},
+		{
+			"checksumSHA1": "oNqPrS2edE8peI3ah2INe379k8E=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "51d6538a90f86fe93ac480b35f37b2be17fef232",
+			"revisionTime": "2018-11-15T11:05:04Z"
+		}
+	],
+	"rootPath": "github.com/liyue201/opentracing-go-http-example"
+}
